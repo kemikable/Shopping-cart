@@ -1,0 +1,64 @@
+    @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+
+    body {
+        font-family: 'Lato', sans-serif
+    }
+
+    h1 {
+        margin-bottom: 0px;
+    }
+
+
+    .buy {
+        margin-bottom: 10px;
+    }
+
+    img {
+        width: 570px;
+        height: 500px;
+        padding-top: 20px;
+    }
+
+    .main {
+        border: 1px solid #999999;
+        border-radius: 5px;
+        width: 600px;
+        padding: 10px 0 20px 20px;
+    }
+
+    .price {
+        color: #b12704;
+        padding-top: 15px;
+    }
+
+
+
+    .grey {
+        background-color: #ebebeb;
+        width: 540px;
+        padding: 15px 0 15px 15px;
+    }
+
+    p {
+        margin: 0;
+    }
+
+    ul {
+        list-style-type: none;
+    }
+
+
+
+    .line {
+        color: #853ae0;
+        padding: 15px 10px 0 0;
+        display: inline-block;
+    }
+
+    a {
+        color: black;
+    }
+
+    .line:hover {
+        text-decoration: underline;
+    }
